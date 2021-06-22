@@ -5,8 +5,11 @@
 
 My skills:
 
-🌐Frontend:
+MERN, MEVN
+
+Frontend:
 🟢Vue.js: Vuex, Vuetify;
+🔵React, React Hooks, Ant design
 Axios
 
 Backend:
@@ -15,7 +18,7 @@ Node.js, MongoDB,
 Firebase, API
 
 📱Mobile:
-🟦Flutter
+🟦Flutter, React Native
 
 Web design: 
 ◻️Figma
