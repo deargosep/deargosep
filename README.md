@@ -1,26 +1,22 @@
 - 👋 Hi, I’m @deargosep
 - 👀 I’m interested in writing frontend Web/Mobile apps
-- 🌱 I’m currently learning React
 - 📫 https://t.me/deargo
 
 My skills:
 
-MERN, MEVN
+1 year of React
+
+MERN
 
 Frontend:
-🟢Vue.js: Vuex, Vuetify;
-🔵React, React Hooks, Ant design
-Axios
+🔵React, React Hooks, Recoil, redux
 
 Backend:
 🟣PHP, MySQL, 
 Node.js, MongoDB, 
-Firebase, API
+Firebase, API, Flask
 
 📱Mobile:
-🟦Flutter, React Native
-
-Web design: 
-◻️Figma
+React Native
 
 Git
