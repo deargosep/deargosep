@@ -4,19 +4,17 @@
 
 My skills:
 
-1 year of React
+1.5 year of React
 
 MERN
 
 Frontend:
-🔵React, React Hooks, Recoil, redux
+🔵React, Hooks, Recoil, redux
 
 Backend:
-🟣PHP, MySQL, 
-Node.js, MongoDB, 
-Firebase, API, Flask
+🟣PHP, MySQL, Node.js, MongoDB, Firebase, API, Flask
 
 📱Mobile:
 React Native
 
-Git
+Also you can see my pet projects written on Python or Flutter. I am interested in using AI models, interacting with IoT. I have some experience of using OpenAI and ready-to-use GPT3 models.
