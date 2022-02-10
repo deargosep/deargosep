@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deargosep
-- 👀 I’m interested in writing frontend Web/Mobile apps
+- 👀 I’m interested in writing frontend Mobile apps
 - 📫 https://t.me/deargo
 
 My skills:
