@@ -1,25 +1,7 @@
-- 👋 Hi, I’m @deargosep
-- 👀 I’m interested in writing frontend Mobile apps
-- 📫 https://t.me/js_flutter_dev
+### hipster developer, 🍎 guy, 18 y.o. cat person
 
-My skills:
+interested in mac/ios software, web/mobile, cross-platform, AI driven applications.
 
-1.5 year of React (React Native)
-0.5 year of Flutter
+**dart**, **swift**, **react**, **js** developer.
 
-Also MERN
-
-Frontend:
-React Native: Hooks, Recoil, redux
-Flutter: Provider
-
-Backend:
-🟣PHP, MySQL, Node.js, MongoDB, Firebase, Custom API, Flask
-
-📱Mobile:
-React Native,
-Flutter
-
-Also you can see my pet projects written on Python or Flutter. I am interested in using AI models, interacting with IoT. I have some experience of using OpenAI and ready-to-use GPT3 models.
-
-My CV: https://djinni.co/q/8c5443c398/
+#### [Contacts](https://t.me/js_flutter_dev)
