@@ -1,10 +1,12 @@
-## hipster developer, 🍎 guy, 19 y.o. cat person
+## *hipster* developer, 19 y.o. cat person
 
-interested in mac/ios software, web/mobile, cross-platform, AI driven applications.
+interested in mac/ios, web/mobile, cross-platform, AI, LLM driven applications.
 
-dart, js, swift
+1. dart
+2. js
+3. react
 
+---
+### also wanna play animal crossing together sometime? 👀
 
-also wanna play animal crossing? 👀
-
-#### [Contacts](https://t.me/js_flutter_dev)
+#### [Contact me on Telegram!](https://t.me/js_flutter_dev)
