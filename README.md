@@ -9,4 +9,4 @@ interested in mac/ios, web/mobile, cross-platform, AI, LLM driven applications.
 ---
 ### also wanna play animal crossing together sometime? 👀
 
-#### [Contact me on Telegram!](https://t.me/js_flutter_dev)
+#### [Contact me on Telegram!](https://t.me/flutter_devq)
