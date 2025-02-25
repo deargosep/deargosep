@@ -1,4 +1,4 @@
-## *hipster* developer, 19 y.o. cat person
+## *hipster* developer, 20 y.o. cat person
 
 interested in mac/ios, web/mobile, cross-platform, AI, LLM driven applications.
 
