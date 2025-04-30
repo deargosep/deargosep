@@ -7,6 +7,5 @@ interested in mac/ios, web/mobile, cross-platform applications.
 3. react
 
 ---
-### also wanna play animal crossing together sometime? 👀
 
 #### [Contact me on Telegram!](https://t.me/flutter_devq)
