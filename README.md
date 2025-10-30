@@ -8,4 +8,4 @@ interested in mac/ios, web/mobile, cross-platform applications.
 
 ---
 
-#### [Contact me on Telegram!](https://t.me/flutter_devq)
+#### [Contact me on Telegram!](https://t.me/devqcf)
