@@ -9,3 +9,4 @@ interested in mac/ios, web/mobile, cross-platform applications.
 ---
 
 #### [Contact me on Telegram!](https://t.me/devqcf)
+#### Email me: [anortus@icloud.com](mailto:anortus@icloud.com)
